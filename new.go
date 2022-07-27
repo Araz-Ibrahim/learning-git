@@ -1,2 +1,4 @@
 pachage
-func name(){}
+func name(){
+  // this is a function
+}

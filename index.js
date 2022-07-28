@@ -1,2 +1,2 @@
 // index js
-// feature
+// main

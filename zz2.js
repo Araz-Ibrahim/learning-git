@@ -2,3 +2,6 @@
 function zzmain() {
   // zz Main
 }
+function zz() {
+  // zz
+}

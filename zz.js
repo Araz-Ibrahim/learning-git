@@ -4,3 +4,7 @@ const slider = document.getElemenetById('slider');
 function feature() {
  // feature function
 }
+
+function feature2() {
+// feature function 2
+}

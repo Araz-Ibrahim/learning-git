@@ -1,2 +1,2 @@
 // zzz	
-const = document.getElemenetById('dedmo').innerHTML;
+const name = document.getElemenetById('dedmo').innerHTML;
